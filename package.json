@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@mdx-js/mdx": "^2.3.0",
-    "@mdx-js/react": "^1.6.11",
+    "@mdx-js/react": "^2.3.0",
     "canvas": "^2.9.3",
     "date-fns": "^2.16.1",
     "gatsby": "^5.8.0",
