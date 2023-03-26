@@ -12,7 +12,7 @@
     "@babel/preset-react": "^7.9.4",
     "playwright-firefox": "^1.4.2",
     "react": "^18.0.0",
-    "react-dom": "^16.13.1",
+    "react-dom": "^18.0.0",
     "react-textfit": "^1.1.0"
   },
   "devDependencies": {
